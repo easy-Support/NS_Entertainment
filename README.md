@@ -1,8 +1,7 @@
 # NS_Entertainment
 ## 프로젝트 설명
 + 클라이언트 요청으로 팀 프로젝트로 개발한 홈 페이지 입니다.
-+ 학원 이름: NS실용음악학원
-+ 학원 홈페이지 링크: https://nsenterac.com/
++ 홈페이지 링크: https://nsenterac.com/
 
 ## 팀 구성
 + 웹 개발: Jiwon Lee
